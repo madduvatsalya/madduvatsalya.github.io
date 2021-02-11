@@ -14,3 +14,4 @@
 ## Cirtifications:
 
 - Attended 2 days training program on Source Code Management using Git & GitHub conducted by APSSDC at my College
+- state level hand ball championship
